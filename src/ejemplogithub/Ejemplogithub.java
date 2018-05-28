@@ -15,7 +15,8 @@ public class Ejemplogithub {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("ejemplo github");// TODO code application logic here
+        System.out.println("ejemplo github");
+        System.out.println("version dos");// TODO code application logic here
     }
     
 }
