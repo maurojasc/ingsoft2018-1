@@ -16,7 +16,8 @@ public class Ejemplogithub {
      */
     public static void main(String[] args) {
         System.out.println("ejemplo github");
-        System.out.println("version dos");// TODO code application logic here
+        System.out.println("version dos");
+        System.out.println("version 3");// TODO code application logic here
     }
     
 }
